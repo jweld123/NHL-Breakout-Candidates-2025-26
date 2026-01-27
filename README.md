@@ -160,6 +160,7 @@ This allows:
 
 ## Repository Structure
 
+```
 NHL-Breakout-Candidates-2025-26/
 ├── src/            # Feature engineering, modeling, evaluation
 ├── data/
@@ -167,3 +168,4 @@ NHL-Breakout-Candidates-2025-26/
 ├── out/            # Model outputs and rankings
 ├── README.md
 └── .gitignore
+```
