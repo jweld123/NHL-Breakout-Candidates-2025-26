@@ -107,7 +107,7 @@ This allows:
 
 ## Results (2025–26 Projections)
 
-### Top 10 U24 Offensive Breakout Candidates
+### Top 15 U24 Offensive Breakout Candidates
 
 | Rank | Player |
 |-----:|----------------|
@@ -121,10 +121,15 @@ This allows:
 | 8 | Dylan Cozens |
 | 9 | Mason McTavish |
 | 10 | Dylan Guenther |
+| 11 | Lucas Raymond |
+| 12 | Pavel Dorofeyev |
+| 13 | Jiri Kulich |
+| 14 | Cutter Gauthier |
+| 15 | Thomas Harley |
 
 ---
 
-### Top 10 U24 Defensive Breakout Candidates
+### Top 15 U24 Defensive Breakout Candidates
 
 | Rank | Player |
 |-----:|-----------------------|
@@ -138,6 +143,11 @@ This allows:
 | 8 | Jacob Bernard-Docker |
 | 9 | Denton Mateychuk |
 | 10 | Albert Johansson |
+| 11 | Nils Lundkvist |
+| 12 | Ty Dellandrea |
+| 13 | Jackson Blake |
+| 14 | Jayden Struble |
+| 15 | Kaiden Guhle |
 
 ---
 
