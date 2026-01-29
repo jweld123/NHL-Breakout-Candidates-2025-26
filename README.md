@@ -10,7 +10,7 @@ However, all data can be reproduced by running the scripts provided in the `data
 
 ## Overview
 
-This project implements a **supervised machine-learning framework** to identify potential NHL breakout players for the **2025–26 season**, using **17 prior seasons of NHL data**.
+This project implements a **supervised machine-learning framework** to identify potential NHL breakout players for the **2025–26 season**, using **17 prior seasons of NHL data** from the websites hockey-reference.com and moneypuck.com.
 
 Rather than predicting raw point totals, the model is designed to **classify whether a player is likely to meaningfully improve in the following season**, based on historical progression patterns observed in comparable players.
 
